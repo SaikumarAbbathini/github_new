@@ -1,0 +1,8 @@
+{
+    "name": "github_new",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "mkdir -p dist && cp app.js dist/app.js",
+        "test": "node --test"
+    }
+}
